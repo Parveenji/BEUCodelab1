@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356458991379",
+    "project_id": "coders-gym",
+    "storage_bucket": "coders-gym.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356458991379:android:e94dc708040e2fb3cfd4e6",
+      "android_client_info": {
+          "package_name": "com.gouravsh.codersgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeT9Kpcr-6nXUik-TPel7LLiGPdi14mpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
