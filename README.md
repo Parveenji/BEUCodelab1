@@ -1,80 +1,92 @@
-# <img src="https://github.com/GouravShDev/codersgym/blob/main/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true" alt="app_icon" height="40"/>  Coders Gym
+# 🚀 BEU CodeLab
 
-Coders Gym is an unofficial client for LeetCode, built with Flutter. It allows you to solve LeetCode questions directly from your mobile device with a user-friendly interface.
+**Learn. Build. Create.**
 
-![Google Pixel 3 XL Presentation_compreesed](https://github.com/user-attachments/assets/283c4010-bb11-48f5-9c12-de19437bfef8)
+BEU CodeLab is a coding education platform by **Bright Eureka**, designed to make learning programming more accessible, engaging, and beginner-friendly.
 
-## 🚀 Features
+Our goal is to help learners explore programming languages, develop practical coding skills, and build confidence through technology.
 
-Features of Coders Gym
+## ✨ About the Project
 
-- **Daily Challenges at Your Fingertips**: Stay consistent with instant access to your daily coding challenges.
-- **Upcoming LeetCode Contests**: Plan ahead with a clear view of all upcoming contests.
-- **Explore the Full Problem Set**: Access the entire collection of LeetCode problems to sharpen your skills.
-- **Dynamic Profile Stats**: Track your progress with interactive and visually engaging animations.
-- **Seamless Authentication**: Log in effortlessly using your LeetCode credentials or simply by your username.
-- **Built-In Code Editor**: Write, test, and submit your solutions directly within the app
-- **Question Discussions and Solutions**: Dive deeper into problems by exploring community discussions and expert solutions.
+BEU CodeLab is an Android application built with Flutter. It is a rebranded and customised version of the original CodersGym project.
 
-## 🎥 Video Demo:
+We aim to make coding education easier to access and more approachable for learners.
 
-[![Watch the Demo](https://img.youtube.com/vi/QZZ6yvH8G6g/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dj-9ehezqAU&list=PLaa4Z8KUulZNOncf6XdcbMYHZUzc8E7VP)
+## 🎯 Our Vision
 
-🔗 **[Watch the Full Demo](https://www.youtube.com/watch?v=Dj-9ehezqAU&list=PLaa4Z8KUulZNOncf6XdcbMYHZUzc8E7VP)**  
+We believe everyone should have the opportunity to learn how to code.
 
+Through BEU CodeLab, we want to encourage students to:
+- Explore different programming languages.
+- Develop logical and computational thinking.
+- Learn through technology.
+- Build practical coding skills.
 
-## 🔮 Future Scope
+## 🛠️ Built With
 
+- Flutter
+- Dart
+- Android
 
-- [ ] Set reminders for contests
-- [ ] Daily reminder notifications for daily challenge
-- [x] Code Editor for submitting code
-- [x] View question discussions
+## 🚀 Getting Started
 
-## 🛠 Built With
-- **BLoC (Business Logic Component)**: State management solution to separate business logic from UI components, making the app more maintainable and testable.
-- **Clean Architecture**: Ensures the app is built with scalability and maintainability in mind. Layers such as data, domain, and presentation are separated to ensure flexibility and testability.
-- **GetIt**: Used for dependency injection to manage service instances and improve the app's modularity.
-- **GraphQL API**: Integrated using GraphQL to efficiently query and manage data from the backend.
-- **AutoRoute**: Utilized for routing, ensuring a declarative and type-safe approach to navigation.
-- **Flutter Hooks**: Used for code-sharing between widgets and to manage widget state more efficiently.
-- **Cached Network Image**: Used for image caching to optimize network calls and improve app performance.
-- **Exponential Backoff Strategy**: Applied for handling API call timeouts, ensuring more reliable and fault-tolerant network requests.
+### Prerequisites
 
+- Flutter SDK
+- Dart SDK
+- Android Studio
+- Git
 
-## ⚙️ Setup & Installation
+### Installation
 
 1. Clone the repository:
+
+   ```bash
+   git clone YOUR_REPOSITORY_URL
    ```
-   git clone https://github.com/GouravShDev/codersgym.git
-   ```
+
 2. Navigate to the project directory:
 
-   ```
-   cd codersgym
+   ```bash
+   cd BEU-CodeLab
    ```
 
-3. Install dependencies: Run the following command to install project dependencies:
-   ```
+3. Install dependencies:
+
+   ```bash
    flutter pub get
    ```
 
-4. Generate code: Run the following command to generate the necessary code:
-   ```
+4. Generate required files:
+
+   ```bash
    dart run build_runner build
    ```
 
-5. Run the app: Finally, use the following command to launch the app on the selected device or emulator:
-   ```
+5. Run the application:
+
+   ```bash
    flutter run
    ```
 
-## 🤝 Contributing
-We welcome contributions to make Coders Gym even better! Please fork the repository and submit a pull request with your improvements.
+## 🏢 About Bright Eureka
 
-## 📌 Disclaimer
+**Bright Eureka** is an innovation-driven initiative focused on building accessible technology and educational solutions.
 
-**Coders Gym** is an **unofficial client for LeetCode** and is not affiliated with or endorsed by LeetCode or its parent company.  
-All content such as problems, discussions, and contests are sourced from [LeetCode](https://leetcode.com) and belong to their respective owners.  
-This app is developed solely for educational purposes and to enhance the user experience for LeetCode users on mobile.
+BEU CodeLab is part of our broader vision to make digital learning more accessible.
 
+## 🤝 Contributions
+
+We welcome contributions, suggestions, and ideas that can help improve BEU CodeLab.
+
+Feel free to open an issue or submit a pull request.
+
+## 📄 License & Attribution
+
+BEU CodeLab is based on the original CodersGym project. Please refer to the original project's license and attribution requirements when redistributing or modifying this software.
+
+---
+
+**Built with ❤️ by Bright Eureka**
+
+*Learn • Build • Create*
