@@ -8,7 +8,7 @@ Our goal is to help learners explore programming languages, develop practical co
 
 ## ✨ About the Project
 
-BEU CodeLab is an Android application built with Flutter. It is a rebranded and customised version of the original CodersGym project.
+BEU CodeLab is an Android application built with Flutter. It is a rebranded.
 
 We aim to make coding education easier to access and more approachable for learners.
 
